@@ -1,0 +1,16 @@
+[[entries]]
+title = "关于我"
+
+  [[entries.entries]]
+  title = "github repo"
+  url = "https://github.com/sjjaugust"
+
+[[entries]]
+title = "最近更新"
+
+  [entries.post_list]
+  limit = 3
+  show_more = true
+  show_more_text = "查看更多"
+  show_more_url = "posts"
+
